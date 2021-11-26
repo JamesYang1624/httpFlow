@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "httpFlow"
 include ':app'
+include ':common'
